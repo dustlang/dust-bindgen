@@ -3,7 +3,7 @@
 
 # `bindgen`
 
-**`bindgen` automatically generates Rust FFI bindings to C (and some C++) libraries.**
+**`bindgen` automatically generates Dust FFI bindings to C (and some C++) libraries.**
 
 For example, given the C header `doggo.h`:
 
